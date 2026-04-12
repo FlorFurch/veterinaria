@@ -1,0 +1,4 @@
+frontend/
+.DS_Store
+.code
+*.pyc
